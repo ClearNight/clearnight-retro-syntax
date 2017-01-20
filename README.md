@@ -1,6 +1,6 @@
 # Clear Night Syntax Theme
 
-Atom theme using the soothing colors of the night sky. Designed for use with [Clear Night UI](https://github.com/Raindeer44/clear-night-ui).
+Atom theme using the soothing colors of the night sky. Designed for use with [Clear Night UI](https://atom.io/packages/clear-night-ui).
 
 ![clear-night-syntax](https://i.imgur.com/NrVt4xZ.jpg)
 
