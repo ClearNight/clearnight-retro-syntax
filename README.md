@@ -8,6 +8,8 @@ Clear Night Syntax is based on [Solarized Dark Syntax](https://github.com/atom/s
 
 <p align="center"><img src="assets/img/preview.png" alt="Preview image" /></p>
 
+> Icons provided by [File Icons](https://atom.io/packages/file-icons), shown with [Clear Night UI](https://atom.io/packages/clear-night-ui) and [Minimap](https://atom.io/packages/minimap).
+
 ## Getting started
 ### Installation
 **<img src="https://atom.io/favicon.ico" alt="" width=16 height=16 /> [apm](https://github.com/atom/apm)**  
