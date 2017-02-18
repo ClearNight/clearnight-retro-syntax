@@ -6,7 +6,7 @@ Clear Night Syntax is based on [Solarized Dark Syntax](https://github.com/atom/s
 
 # Preview
 
-<p align="center"><img src="https://raw.githubusercontent.com/raindeer44/clear-night-assets/master/assets/img/preview.png" alt="Preview image" /></p>
+<p align="center"><img src="https://raw.githubusercontent.com/raindeer44/clear-night-syntax/master/assets/img/preview.png" alt="Preview image" /></p>
 
 > Icons provided by [File Icons](https://atom.io/packages/file-icons), shown with [Clear Night UI](https://atom.io/packages/clear-night-ui) and [Minimap](https://atom.io/packages/minimap).
 
