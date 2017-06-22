@@ -6,9 +6,9 @@
   "author": {
     "name": "Northern Spiral"
   },
-  "repository": "https://github.com/northernspiral/clear-night-syntax",
+  "repository": "https://github.com/ClearNight/clear-night-syntax",
   "bugs": {
-    "url": "https://github.com/northernspiral/clear-night-syntax/issues"
+    "url": "https://github.com/ClearNight/clear-night-syntax/issues"
   },
   "license": "MIT",
   "engines": {
@@ -17,6 +17,8 @@
   "keywords": [
     "dark",
     "night",
-    "syntax"
+    "syntax",
+    "clear night",
+    "clear-night"
   ]
 }
