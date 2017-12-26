@@ -1,14 +1,14 @@
 <p align="center"><img src="https://raw.githubusercontent.com/ClearNight/clear-night-syntax/master/assets/img/clear-night-syntax-title.png" alt="Clear Night Syntax" /></p>
 
-Syntax theme for Atom inspired by the soothing colors of the night sky. Designed for use with [Clear Night UI](https://atom.io/packages/clear-night-ui).
+[![apm install clear-night-syntax](https://apm-badges.herokuapp.com/apm/clear-night-syntax.svg?theme=one-dark)](https://atom.io/packages/clear-night-syntax)
 
-Clear Night Syntax is based on [Solarized Dark Syntax](https://github.com/atom/solarized-dark-syntax)
+Syntax theme for Atom inspired by the soothing colors of the night sky. Designed for use with [Clear Night UI](https://atom.io/packages/clear-night-ui).
 
 # Preview
 
 <p align="center"><img src="https://raw.githubusercontent.com/ClearNight/clear-night-syntax/master/assets/img/preview.png" alt="Preview image" /></p>
 
-> Icons provided by [File Icons](https://atom.io/packages/file-icons), shown with [Clear Night UI](https://atom.io/packages/clear-night-ui) and [Minimap](https://atom.io/packages/minimap).
+> Icons provided by [File Icons](https://atom.io/packages/file-icons), shown with [Clear Night UI](https://atom.io/packages/clear-night-ui) and [Minimap](https://atom.io/packages/minimap)
 
 ## Getting started
 ### Installation
@@ -29,8 +29,6 @@ apm install clear-night-syntax
 ### Contribution
 Please report issues/bugs, feature requests and suggestions for improvements to the [issue tracker](https://github.com/ClearNight/clear-night-syntax/issues).
 
-
 ---
 
-
-<p align="center"><a href="https://github.com/ClearNight/clear-night-syntax/LICENSE"><img src="https://img.shields.io/badge/license-MIT-lightgrey.svg?style=flat-square" alt="License: MIT" /></a></p>
+Clear Night Syntax was originally forked from [Solarized Dark Syntax](https://github.com/atom/solarized-dark-syntax)
