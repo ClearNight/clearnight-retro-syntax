@@ -1,4 +1,7 @@
-.syntax--source.syntax--java {
+/* Java and Groovy support */
+
+.syntax--source.syntax--java,
+.syntax--source.syntax--groovy {
   .syntax--keyword.syntax--operator{
     color:@green;
   }
@@ -10,7 +13,7 @@
   }
   .syntax--meta.syntax--class{
     .syntax--storage.syntax--modifier{
-      color: @yellow;
+      color: @orange;
     }
     .syntax--meta.syntax--class.syntax--identifier{
       .syntax--entity.syntax--name.syntax--type.syntax--class{
@@ -28,14 +31,14 @@
     color:@orange;
   }
   .syntax--storage.syntax--type{
-    color:@green;
+    color:@blue;
   }
   .syntax--meta.syntax--method-call{
     //@ibocon: method parameter's color
     color:@red;
     //@ibocon: method and variable use different hightlight
     .syntax--meta.syntax--method{
-      color:@violet;
+      color:@purple;
     }
     .syntax--punctuation.syntax--definition.syntax--seperator.syntax--parameter{
       color:@green;
