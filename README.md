@@ -1,4 +1,4 @@
-<p align="center"><img src="https://raw.githubusercontent.com/ClearNight/clearnight-retro-syntax/master/assets/img/clearnight-retro-syntax-title.png" alt="Clear Night Syntax" /></p>
+<p align="center"><img src="https://raw.githubusercontent.com/ClearNight/clearnight-retro-syntax/master/assets/img/clearnight-retro-syntax-title.png" alt="ClearNight Retro Syntax" /></p>
 
 [![apm install clearnight-retro-syntax](https://apm-badges.herokuapp.com/apm/clearnight-retro-syntax.svg?theme=one-dark)](https://atom.io/packages/clearnight-retro-syntax)
 
