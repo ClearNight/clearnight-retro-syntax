@@ -2,7 +2,7 @@
 
 [![apm install clearnight-retro-syntax](https://apm-badges.herokuapp.com/apm/clearnight-retro-syntax.svg?theme=one-dark)](https://atom.io/packages/clearnight-retro-syntax)
 
-Syntax theme for Atom inspired by the soothing colors of the night sky. Designed for use with [Clear Night UI](https://atom.io/packages/clear-night-ui).
+A smooth, relaxed retro dark theme for Atom. Designed for use with [ClearNight Retro UI](https://atom.io/packages/clearnight-retro-ui), but also works with other dark themes such as [One Dark](https://atom.io/themes/one-dark-ui).
 
 # Preview
 
@@ -11,7 +11,9 @@ Syntax theme for Atom inspired by the soothing colors of the night sky. Designed
 > Icons provided by [File Icons](https://atom.io/packages/file-icons), shown with [ClearNight Retro UI](https://atom.io/packages/clearnight-retro-ui) and [Minimap](https://atom.io/packages/minimap)
 
 ## Getting started
+
 ### Installation
+
 **<img src="https://atom.io/favicon.ico" alt="" width=16 height=16 /> [apm](https://github.com/atom/apm)**  
 ```shell
 apm install clearnight-retro-syntax
@@ -24,7 +26,7 @@ apm install clearnight-retro-syntax
 
 **Activation**
   1. Open *Settings > Themes*
-  2. Select `Clear Night` from the *Syntax Theme* drop-down menu
+  2. Select `ClearNight Retro` from the *Syntax Theme* drop-down menu
 
 ### Contribution
 Please report issues/bugs, feature requests and suggestions for improvements to the [issue tracker](https://github.com/ClearNight/clearnight-retro-syntax/issues).
