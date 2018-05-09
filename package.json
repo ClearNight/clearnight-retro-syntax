@@ -4,7 +4,7 @@
   "version": "0.8.0",
   "description": "A soothing dark syntax based on a clear night sky",
   "author": {
-    "name": "Northern Spiral"
+    "name": "ClearNight"
   },
   "repository": "https://github.com/ClearNight/clearnight-retro-syntax",
   "bugs": {
@@ -19,6 +19,9 @@
     "night",
     "syntax",
     "clear night",
-    "clear-night"
+    "clear-night",
+    "clearnight",
+    "gruvbox",
+    "retro"
   ]
 }
